@@ -1,0 +1,22 @@
+{
+   "console": {
+       "colors": {
+           "primary":"#ffffff",
+           "secondary":"#88a3d6"
+       }
+   },
+   "codeblock": {
+       "title":"Novoline",
+       "footer": "novoline.wtf"
+   },
+   "rpc": {
+        "clientID": "941619598971797554",
+        "details": "User ID: 0001",
+        "state": "Version: 2.5 (123021)",
+        "largeImageKey": "big",
+        "largeImageText": "novoline.wtf",
+        "smallImageKey": "small",
+        "smallImageText": "2.5 (123021)",
+        "enableStartTime": true
+    },
+}
