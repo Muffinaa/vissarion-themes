@@ -1,0 +1,21 @@
+{
+   "console": {
+       "colors": {
+           "primary":"#ffffff",
+           "secondary":"#88a3d6"
+       }
+   },
+   "codeblock": {
+       "title":"Rise",
+       "footer": "Rise client"
+   },
+   "rpc": {
+        "enableStartTime": true,
+        "clientID": "942008356867014697",
+        "details": "Version V10.1",
+        "state": "Playing Rise Beta",
+        "largeImageKey": "big",
+        "largeImageText": "Intent Launcher V10.1",
+        "smallImageKey": "small",
+        "smallImageText": "Intent.Store"
+        },

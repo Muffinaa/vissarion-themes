@@ -1,0 +1,21 @@
+{
+   "console": {
+       "colors": {
+           "primary":"#211b46",
+           "secondary":"#9f27b5"
+       }
+   },
+   "codeblock": {
+       "title":"Fatality.win",
+       "footer": "Fatality > all"
+   },
+   "rpc": {
+       "clientid": "911609997706797077",
+       "details": "Main menu",
+       "state": "Using p100 config",
+       "largeimagekey": "fatality",
+       "largeimagetext": "Fatality > all",
+       "smallimagekey": "",
+       "smallimagetext": ""
+   }
+}
