@@ -1,0 +1,20 @@
+{
+    "console": {
+        "colors": {
+            "primary":"#2391FF",
+            "secondary":"#5c5c5c"
+        }
+    },
+    "codeblock": {
+        "title":"ghost.cool",
+        "footer": "ghost.cool"
+    },
+    "rpc": {
+        "clientid": "877223591828136006",
+        "state": "Using Ghost",
+        "largeimagekey": "icon",
+        "largeimagetext": "ghost.cool",
+        "smallimagekey": "small",
+        "smallimagetext": "best sb for \u00a32"
+    }
+}
